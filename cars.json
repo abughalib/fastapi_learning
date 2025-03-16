@@ -1,0 +1,444 @@
+[
+  {
+    "size": "M",
+    "fuel": "Petrol",
+    "doors": 4,
+    "transmission": "Manual",
+    "id": 0,
+    "trips": []
+  },
+  {
+    "size": "L",
+    "fuel": "Diesel",
+    "doors": 4,
+    "transmission": "Auto",
+    "id": 1,
+    "trips": [
+      { "start": 0, "end": 110, "description": "Trip to mumbai", "id": 1 }
+    ]
+  },
+  {
+    "size": "S",
+    "fuel": "Electric",
+    "doors": 2,
+    "transmission": "Auto",
+    "id": 2,
+    "trips": []
+  },
+  {
+    "size": "M",
+    "fuel": "Petrol",
+    "doors": 4,
+    "transmission": "Semi",
+    "id": 3,
+    "trips": []
+  },
+  {
+    "size": "L",
+    "fuel": "Hydrogen",
+    "doors": 4,
+    "transmission": "Auto",
+    "id": 4,
+    "trips": []
+  },
+  {
+    "size": "S",
+    "fuel": "Diesel",
+    "doors": 2,
+    "transmission": "Manual",
+    "id": 5,
+    "trips": []
+  },
+  {
+    "size": "M",
+    "fuel": "Electric",
+    "doors": 4,
+    "transmission": "Auto",
+    "id": 6,
+    "trips": []
+  },
+  {
+    "size": "L",
+    "fuel": "Petrol",
+    "doors": 4,
+    "transmission": "Manual",
+    "id": 7,
+    "trips": []
+  },
+  {
+    "size": "S",
+    "fuel": "Diesel",
+    "doors": 2,
+    "transmission": "Semi",
+    "id": 8,
+    "trips": []
+  },
+  {
+    "size": "M",
+    "fuel": "Hydrogen",
+    "doors": 4,
+    "transmission": "Auto",
+    "id": 9,
+    "trips": []
+  },
+  {
+    "size": "L",
+    "fuel": "Electric",
+    "doors": 4,
+    "transmission": "Manual",
+    "id": 10,
+    "trips": []
+  },
+  {
+    "size": "S",
+    "fuel": "Petrol",
+    "doors": 2,
+    "transmission": "Auto",
+    "id": 11,
+    "trips": []
+  },
+  {
+    "size": "M",
+    "fuel": "Diesel",
+    "doors": 4,
+    "transmission": "Semi",
+    "id": 12,
+    "trips": []
+  },
+  {
+    "size": "L",
+    "fuel": "Hydrogen",
+    "doors": 4,
+    "transmission": "Manual",
+    "id": 13,
+    "trips": []
+  },
+  {
+    "size": "S",
+    "fuel": "Electric",
+    "doors": 2,
+    "transmission": "Semi",
+    "id": 14,
+    "trips": []
+  },
+  {
+    "size": "M",
+    "fuel": "Petrol",
+    "doors": 4,
+    "transmission": "Auto",
+    "id": 15,
+    "trips": []
+  },
+  {
+    "size": "L",
+    "fuel": "Diesel",
+    "doors": 4,
+    "transmission": "Semi",
+    "id": 16,
+    "trips": []
+  },
+  {
+    "size": "S",
+    "fuel": "Hydrogen",
+    "doors": 2,
+    "transmission": "Manual",
+    "id": 17,
+    "trips": []
+  },
+  {
+    "size": "M",
+    "fuel": "Electric",
+    "doors": 4,
+    "transmission": "Auto",
+    "id": 18,
+    "trips": []
+  },
+  {
+    "size": "L",
+    "fuel": "Petrol",
+    "doors": 4,
+    "transmission": "Manual",
+    "id": 19,
+    "trips": []
+  },
+  {
+    "size": "S",
+    "fuel": "Diesel",
+    "doors": 2,
+    "transmission": "Auto",
+    "id": 20,
+    "trips": []
+  },
+  {
+    "size": "M",
+    "fuel": "Hydrogen",
+    "doors": 4,
+    "transmission": "Semi",
+    "id": 21,
+    "trips": []
+  },
+  {
+    "size": "L",
+    "fuel": "Electric",
+    "doors": 4,
+    "transmission": "Auto",
+    "id": 22,
+    "trips": []
+  },
+  {
+    "size": "S",
+    "fuel": "Petrol",
+    "doors": 2,
+    "transmission": "Manual",
+    "id": 23,
+    "trips": []
+  },
+  {
+    "size": "M",
+    "fuel": "Diesel",
+    "doors": 4,
+    "transmission": "Auto",
+    "id": 24,
+    "trips": []
+  },
+  {
+    "size": "L",
+    "fuel": "Hydrogen",
+    "doors": 4,
+    "transmission": "Semi",
+    "id": 25,
+    "trips": []
+  },
+  {
+    "size": "S",
+    "fuel": "Electric",
+    "doors": 2,
+    "transmission": "Manual",
+    "id": 26,
+    "trips": []
+  },
+  {
+    "size": "M",
+    "fuel": "Petrol",
+    "doors": 4,
+    "transmission": "Semi",
+    "id": 27,
+    "trips": []
+  },
+  {
+    "size": "L",
+    "fuel": "Diesel",
+    "doors": 4,
+    "transmission": "Auto",
+    "id": 28,
+    "trips": []
+  },
+  {
+    "size": "S",
+    "fuel": "Hydrogen",
+    "doors": 2,
+    "transmission": "Semi",
+    "id": 29,
+    "trips": []
+  },
+  {
+    "size": "M",
+    "fuel": "Electric",
+    "doors": 4,
+    "transmission": "Manual",
+    "id": 30,
+    "trips": []
+  },
+  {
+    "size": "L",
+    "fuel": "Petrol",
+    "doors": 4,
+    "transmission": "Auto",
+    "id": 31,
+    "trips": []
+  },
+  {
+    "size": "S",
+    "fuel": "Diesel",
+    "doors": 2,
+    "transmission": "Manual",
+    "id": 32,
+    "trips": []
+  },
+  {
+    "size": "M",
+    "fuel": "Hydrogen",
+    "doors": 4,
+    "transmission": "Semi",
+    "id": 33,
+    "trips": []
+  },
+  {
+    "size": "L",
+    "fuel": "Electric",
+    "doors": 4,
+    "transmission": "Auto",
+    "id": 34,
+    "trips": []
+  },
+  {
+    "size": "S",
+    "fuel": "Petrol",
+    "doors": 2,
+    "transmission": "Manual",
+    "id": 35,
+    "trips": []
+  },
+  {
+    "size": "M",
+    "fuel": "Diesel",
+    "doors": 4,
+    "transmission": "Auto",
+    "id": 36,
+    "trips": []
+  },
+  {
+    "size": "L",
+    "fuel": "Hydrogen",
+    "doors": 4,
+    "transmission": "Manual",
+    "id": 37,
+    "trips": []
+  },
+  {
+    "size": "S",
+    "fuel": "Electric",
+    "doors": 2,
+    "transmission": "Semi",
+    "id": 38,
+    "trips": []
+  },
+  {
+    "size": "M",
+    "fuel": "Petrol",
+    "doors": 4,
+    "transmission": "Auto",
+    "id": 39,
+    "trips": []
+  },
+  {
+    "size": "L",
+    "fuel": "Diesel",
+    "doors": 4,
+    "transmission": "Semi",
+    "id": 40,
+    "trips": []
+  },
+  {
+    "size": "S",
+    "fuel": "Hydrogen",
+    "doors": 2,
+    "transmission": "Manual",
+    "id": 41,
+    "trips": []
+  },
+  {
+    "size": "M",
+    "fuel": "Electric",
+    "doors": 4,
+    "transmission": "Auto",
+    "id": 42,
+    "trips": []
+  },
+  {
+    "size": "L",
+    "fuel": "Petrol",
+    "doors": 4,
+    "transmission": "Manual",
+    "id": 43,
+    "trips": []
+  },
+  {
+    "size": "S",
+    "fuel": "Diesel",
+    "doors": 2,
+    "transmission": "Auto",
+    "id": 44,
+    "trips": []
+  },
+  {
+    "size": "M",
+    "fuel": "Hydrogen",
+    "doors": 4,
+    "transmission": "Semi",
+    "id": 45,
+    "trips": []
+  },
+  {
+    "size": "L",
+    "fuel": "Electric",
+    "doors": 4,
+    "transmission": "Auto",
+    "id": 46,
+    "trips": []
+  },
+  {
+    "size": "S",
+    "fuel": "Petrol",
+    "doors": 2,
+    "transmission": "Manual",
+    "id": 47,
+    "trips": []
+  },
+  {
+    "size": "M",
+    "fuel": "Diesel",
+    "doors": 4,
+    "transmission": "Semi",
+    "id": 48,
+    "trips": []
+  },
+  {
+    "size": "L",
+    "fuel": "Hydrogen",
+    "doors": 4,
+    "transmission": "Auto",
+    "id": 49,
+    "trips": []
+  },
+  {
+    "size": "L",
+    "fuel": "Petrol",
+    "doors": 4,
+    "transmission": "Auto",
+    "id": 50,
+    "trips": []
+  },
+  {
+    "size": "L",
+    "fuel": "Petrol",
+    "doors": 4,
+    "transmission": "Auto",
+    "id": 51,
+    "trips": []
+  },
+  {
+    "size": "L",
+    "fuel": "Hydrogen",
+    "doors": 6,
+    "transmission": "Auto",
+    "id": 52,
+    "trips": []
+  },
+  {
+    "size": "L",
+    "fuel": "Petrol",
+    "doors": 0,
+    "transmission": "Auto",
+    "id": 54,
+    "trips": []
+  },
+  {
+    "size": "M",
+    "fuel": "Petrol",
+    "doors": 0,
+    "transmission": "Manual",
+    "id": 55,
+    "trips": []
+  }
+]

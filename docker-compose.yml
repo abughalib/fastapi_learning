@@ -1,0 +1,36 @@
+services:
+  api:
+    build:
+      context: ./
+      dockerfile: Dockerfile.carsharing
+    ports:
+      - 8000:8000
+    environment:
+      - DATABASE_URL=postgresql+asyncpg://username:password@db:5432/CarsDB
+    depends_on:
+      - db
+
+  db:
+    build:
+      context: ./
+      dockerfile: Dockerfile.postgres
+    ports:
+      - 5432:5432
+    environment:
+      - POSTGRES_USER=username
+      - POSTGRES_PASSWORD=password
+      - POSTGRES_DB=CarsDB
+    volumes:
+      - postgres_data:/var/lib/postgresql/data/
+
+  nginx:
+    build:
+      context: ./
+      dockerfile: Dockerfile.nginx
+    ports:
+      - 80:80
+    depends_on:
+      - api
+
+volumes:
+  postgres_data:

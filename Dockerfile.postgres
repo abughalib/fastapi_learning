@@ -1,0 +1,9 @@
+FROM postgres:17-bookworm
+
+ENV POSTGRES_USER=username
+ENV POSTGRES_PASSWORD=password
+ENV POSTGRES_DB=CarsDB
+
+EXPOSE 5432
+
+VOLUME [ "/var/lib/postgresql/data" ]
